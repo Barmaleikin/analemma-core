@@ -1,0 +1,7 @@
+[package]
+name = "analemma"
+version = "0.3.3"
+edition = "2024"
+build = "build.rs"
+description = "Architecture-neutral balanced-ternary core: arithmetic, words of configurable width, sparse ternary arrays"
+license = "MIT OR Apache-2.0"
